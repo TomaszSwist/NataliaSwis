@@ -1,5 +1,5 @@
 # nataliaswis
-First simple project that is inspired by LinkTree. Personal site for TikTok, Instagram, YouTube creators.
+First working in real world page. Simple project that is inspired by LinkTree. Personal site for TikTok, Instagram, YouTube creators.
 
 This is real word working site.
 URL: https://nataliaswis.pl
